@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SKY-20190805NAY",
+    "children" : [ {
+      "name" : "6320-MainThread",
+      "children" : [ {
+        "name" : "我有一个小毛驴2",
+        "uid" : "2e51bdc0f12f0fa",
+        "parentUid" : "55965bc3340746e20d2d874fe0b3eb0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568188082768,
+          "stop" : 1568188082770,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我有一个小毛驴3",
+        "uid" : "97d3f888cda58b40",
+        "parentUid" : "55965bc3340746e20d2d874fe0b3eb0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568188082773,
+          "stop" : 1568188082774,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我有一个小毛驴1",
+        "uid" : "68ef2bd1feeed9c6",
+        "parentUid" : "55965bc3340746e20d2d874fe0b3eb0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568188082762,
+          "stop" : 1568188082764,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "55965bc3340746e20d2d874fe0b3eb0e"
+    } ],
+    "uid" : "567ae77857477ad91a45b756420cb0cc"
+  } ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid" : "3cea9ebc6ebfc9e2",
+  "name" : "我有一个小毛驴1",
+  "fullName" : "allure_damo.test_allure#test_demo1",
+  "historyId" : "af7b1770ffccc84f4c3f86e9c9184628",
+  "time" : {
+    "start" : 1568187337488,
+    "stop" : 1568187337489,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1c8d3abe983f6c70",
+      "name" : "断言",
+      "source" : "1c8d3abe983f6c70.txt",
+      "type" : "text/plain",
+      "size" : 29
+    }, {
+      "uid" : "2c59583051757f4e",
+      "name" : "stdout",
+      "source" : "2c59583051757f4e.txt",
+      "type" : "text/plain",
+      "size" : 12
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "接口名1"
+  }, {
+    "name" : "feature",
+    "value" : "模块名"
+  }, {
+    "name" : "parentSuite",
+    "value" : "allure_damo"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190805NAY"
+  }, {
+    "name" : "thread",
+    "value" : "3836-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "allure_damo.test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "3cea9ebc6ebfc9e2.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

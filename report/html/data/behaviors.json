@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "模块名",
+    "children" : [ {
+      "name" : "接口名1",
+      "children" : [ {
+        "name" : "我有一个小毛驴1",
+        "uid" : "68ef2bd1feeed9c6",
+        "parentUid" : "0ad779aabe80f41c409b04aa7aa4aadd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568188082762,
+          "stop" : 1568188082764,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ad779aabe80f41c409b04aa7aa4aadd"
+    }, {
+      "name" : "接口名2",
+      "children" : [ {
+        "name" : "我有一个小毛驴2",
+        "uid" : "2e51bdc0f12f0fa",
+        "parentUid" : "ed0bf159dc0708330f9c68bc5456893a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568188082768,
+          "stop" : 1568188082770,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ed0bf159dc0708330f9c68bc5456893a"
+    }, {
+      "name" : "接口名3",
+      "children" : [ {
+        "name" : "我有一个小毛驴3",
+        "uid" : "97d3f888cda58b40",
+        "parentUid" : "483161fabc1c131c58b473c32bd50a16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568188082773,
+          "stop" : 1568188082774,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "483161fabc1c131c58b473c32bd50a16"
+    } ],
+    "uid" : "24d7fa132ac39275f8e715c22e1c9792"
+  } ]
+}

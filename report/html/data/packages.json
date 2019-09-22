@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "allure_damo.test_allure",
+    "children" : [ {
+      "name" : "我有一个小毛驴1",
+      "uid" : "68ef2bd1feeed9c6",
+      "parentUid" : "bb14598a01dd723dc525d7428e6fa9d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568188082762,
+        "stop" : 1568188082764,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "我有一个小毛驴2",
+      "uid" : "2e51bdc0f12f0fa",
+      "parentUid" : "bb14598a01dd723dc525d7428e6fa9d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568188082768,
+        "stop" : 1568188082770,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "我有一个小毛驴3",
+      "uid" : "97d3f888cda58b40",
+      "parentUid" : "bb14598a01dd723dc525d7428e6fa9d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568188082773,
+        "stop" : 1568188082774,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "allure_damo.test_allure"
+  } ]
+}
